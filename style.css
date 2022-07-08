@@ -8,12 +8,16 @@
 
 }
 
+.logo {
+  margin: 36px 0 136px 160px;
+}
+
 .transacao {
   background: #6933FF;
   color: #FFF ;
   height: 48px;
   width: 195px;
-  margin-right: 59px;
+  margin: 32px 160px 132px 0;
   top: 32px;
   border-radius: 5px;
   font-size: 16px;
