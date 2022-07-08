@@ -1,52 +1,25 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-
 .topo {
-  background-color: #5429CC;
-  width: 1440px;
   height: 212px;
-  display: flex;
-  justify-content: space-between;
-  flex-direction: row;
-  align-items: center;
-  padding: 30px;
+  width: 1440px;
+  left: -0px;
+  top: 0px;
+  border-radius: 0px;
+  background: #5429CC;
+
 }
 
-.topo button {
+.transacao {
   background: #6933FF;
-  color: white;
-  width: 195px;
+  color: #FFF ;
   height: 48px;
-  padding: 12px 32px;
-  text-align: center;
-  font-size: 14px;
+  width: 195px;
+  margin-right: 59px;
+  top: 32px;
+  border-radius: 5px;
+  font-size: 16px;
   font-family: 'Poppins', sans-serif;
-  font-style: normal;
   font-weight: 600;
+  text-align: center;
+  font-style: normal;
   line-height: 24px;
-  border-radius: 5px;
-}
-
-main .card {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  width: 300px;
-  height: 200px;
-  border-radius: 5px;
-  background:red;
-}
-
-main .card h3 {
-  font-family: 'Poppins', sans-serif;
-  color: #363F5F;
-}
-
-main .card img {
-  display: flex;
-  justify-content: flex-start;
 }
