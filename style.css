@@ -1,29 +1,4 @@
 .topo {
-  height: 212px;
-  width: 1440px;
-  left: -0px;
-  top: 0px;
-  border-radius: 0px;
   background: #5429CC;
 
-}
-
-.logo {
-  margin: 36px 0 136px 160px;
-}
-
-.transacao {
-  background: #6933FF;
-  color: #FFF ;
-  height: 48px;
-  width: 195px;
-  margin: 32px 160px 132px 0;
-  top: 32px;
-  border-radius: 5px;
-  font-size: 16px;
-  font-family: 'Poppins', sans-serif;
-  font-weight: 600;
-  text-align: center;
-  font-style: normal;
-  line-height: 24px;
 }
