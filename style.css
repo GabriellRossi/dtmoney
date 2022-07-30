@@ -1,5 +1,5 @@
 :root {
-  --gr-primary: red;
+  --gr-primary: #5429cc;
   --gr-secondary: #6933ff;
   --gr-light: #F0F2F5;
   --gr-light-table: #FFFFFF;
@@ -14,8 +14,6 @@ body {
   background: var(--gr-primary);
   padding: 2rem 0 6rem;
 }
-
-
 
 .card {
   border: 5px;
